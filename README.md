@@ -18,9 +18,8 @@ Mostrar historia, lugares, gastronomía y un formulario de contacto.
 Solo abre `index.html` en el navegador.
 
 🌐 ## Publicación en GitHub Pages
-1. Settings → Pages → **Source: Deploy from a branch**.
-2. Branch: `main`, Folder: `/root`. Guardar.
-3. Espera el build y usa la URL que genera GitHub.
+
+https://claudialirab.github.io/Guia-turistica-digital-de-mi-ciudad/ 
 
 📜 ## Licencia
 MIT (solo con fines educativos).
